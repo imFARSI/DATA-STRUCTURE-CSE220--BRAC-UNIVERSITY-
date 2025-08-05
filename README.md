@@ -11,6 +11,8 @@ This repository contains weekly lab codes from my **CSE220 (Data Structures)** c
 - Stacks & Queues
 - Trees
 - Recursion
+- Hashing
+- Heap
 
 ## 🧑‍💻 Author
 **Salman Farsi**  
